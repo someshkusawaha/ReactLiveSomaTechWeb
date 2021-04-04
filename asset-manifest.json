@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ReactLiveSomaTechWeb/static/js/main.5fc1af82.chunk.js",
+    "main.js.map": "/ReactLiveSomaTechWeb/static/js/main.5fc1af82.chunk.js.map",
+    "runtime-main.js": "/ReactLiveSomaTechWeb/static/js/runtime-main.3906a96c.js",
+    "runtime-main.js.map": "/ReactLiveSomaTechWeb/static/js/runtime-main.3906a96c.js.map",
+    "static/css/2.74c02967.chunk.css": "/ReactLiveSomaTechWeb/static/css/2.74c02967.chunk.css",
+    "static/js/2.f09ecd8a.chunk.js": "/ReactLiveSomaTechWeb/static/js/2.f09ecd8a.chunk.js",
+    "static/js/2.f09ecd8a.chunk.js.map": "/ReactLiveSomaTechWeb/static/js/2.f09ecd8a.chunk.js.map",
+    "index.html": "/ReactLiveSomaTechWeb/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/ReactLiveSomaTechWeb/static/css/2.74c02967.chunk.css.map",
+    "static/js/2.f09ecd8a.chunk.js.LICENSE.txt": "/ReactLiveSomaTechWeb/static/js/2.f09ecd8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3906a96c.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.f09ecd8a.chunk.js",
+    "static/js/main.5fc1af82.chunk.js"
+  ]
+}
